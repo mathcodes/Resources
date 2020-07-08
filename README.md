@@ -19,13 +19,13 @@ I have created this repo to store and access several links, images, and resource
     </html>`
 </details>
 
-<details><summary>css</summary>
+<details><summary>css external link</summary>
 <br>
 
 `<link rel="stylesheet" type="text/css" href="style.css">`
 </details>
 
-<details><summary>js</summary>
+<details><summary>js external link</summary>
 <br>
 
 `<script src="script.js"></script>`
