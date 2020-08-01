@@ -53,3 +53,48 @@ I have created this repo to store and access several links, images, and resource
 `PLACE LINK HERE`
 </details>
 
+## Frameworks & Libraries
+
+<details><summary>Milligram</summary>
+<br>
+    
+#### Install with npm
+
+Milligram is also available to install using npm.
+
+```$ npm install milligram```
+
+#### Install with Yarn
+
+Milligram is also available to install using Yarn.
+
+```$ yarn add milligram```
+
+#### What's included
+ 
+Once downloaded, extract the compressed folder to see the main file in the uncompressed and minified version.
+
+```
+milligram/
+├── dist/
+│   ├── milligram.css
+│   └── milligram.min.css
+├── example.html
+├── license
+└── readme.md
+```
+
+#### Usage
+
+First, use any method mentioned above to download Milligram. Then, just add these tags in the head. Milligram is also available via CDN.
+
+```
+<link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.0/milligram.css">
+```
+<br>
+
+`https://milligram.io/`
+</details>
+
