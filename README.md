@@ -103,13 +103,23 @@ I have created this repo to store and access several links, images, and resource
 
 </details>
 
-<details><summary>Galio</summary>
+<details><summary>Grommet</summary>
     
 #### Install with npm:
 
-```npm install galio-framework```
-    
-[Galio](www.npm install galio-framework)
+```npx create-react-app my-app```
+
+```cd my-app```
+
+```rm -rf yarn.lock```
+
+```rm -rf node_modules```
+
+```npm install```
+
+```npm start```
+
+[Grommet](https://github.com/grommet/grommet-starter-new-app)
 
 </details>
 
