@@ -5,18 +5,26 @@ I have created this repo to store and access several links, images, and resource
 
 <details><summary>html boilerplate</summary>
 <br>
-    `<!DOCTYPE html> <html lang="en">
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <meta http-equiv="X-UA-Compatible" content="ie=edge" />
-    <link rel="icon" href="jcgr_06.ico" type="image">
-    <link rel="stylesheet" type="text/css" href="style.css">
-    </head>
-    <body>
     
-    <script src="script.js"></script>
-    </body>
-    </html>`
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" type="text/css" href="style.css">
+  <link rel="icon" class="favicon" type="image/ico" href="https://mathcodes.github.io/Portfolio/img/jCircleWhite.ico">
+  <title>Jon's Page</title>
+</head>
+<body>
+
+
+
+
+<script src="script.js"></script>
+</body>
+</html>
+```
 </details>
 
 <details><summary>css external link</summary>
