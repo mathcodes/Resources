@@ -115,3 +115,19 @@ I have created this repo to store and access several links, images, and resource
 
 </details>
 
+<details><summary>Next.js</summary>
+    
+#### Install with npm:
+
+```npx create-next-app nextjs-blog --use-npm --example "https://github.com/vercel/next-learn-starter/tree/master/learn-starter"```
+
+```npm run dev```
+
+```npm run build```
+
+```npm start```
+
+[next.js](https://nextjs.org/learn/basics/create-nextjs-app/setup)
+
+</details>
+
