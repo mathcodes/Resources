@@ -1,4 +1,4 @@
-# A Resource for links, syntax, frameworks and more!
+# Public Resource for links, syntax, frameworks and more!
 I have created this repo to store and access several links, images, and resources to make them available globally for use on non-commercial projects.
 
 ## SYNTAX
