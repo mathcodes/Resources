@@ -39,62 +39,79 @@ I have created this repo to store and access several links, images, and resource
 `<link rel="icon" href="jcgr_06.ico" type="image">`
 </details>
 
-<details><summary>PLACEHOLDER</summary>
-
-<br>
-
-`PLACE LINK HERE`
-</details>
-
-<details><summary>PLACEHOLDER</summary>
-
-<br>
-
-`PLACE LINK HERE`
-</details>
-
 ## Frameworks & Libraries
 
-<details><summary>Milligram</summary>
-<br>
-    
-#### Install with npm
+<details><summary>React Popper</summary>
 
-Milligram is also available to install using npm.
 
-```$ npm install milligram```
-
-#### Install with Yarn
-
-Milligram is also available to install using Yarn.
-
-```$ yarn add milligram```
-
-#### What's included
+#### Install with npm:
+```npm i react-popper @popperjs/core```
  
-Once downloaded, extract the compressed folder to see the main file in the uncompressed and minified version.
+[React Popper](https://www.npmjs.com/package/react-popper)
+</details>
 
-```
-milligram/
-├── dist/
-│   ├── milligram.css
-│   └── milligram.min.css
-├── example.html
-├── license
-└── readme.md
-```
+<details><summary>Milligram</summary>
+    
+#### Install with npm and add the tags in the head:
 
-#### Usage
-
-First, use any method mentioned above to download Milligram. Then, just add these tags in the head. Milligram is also available via CDN.
-
-```
+```$ npm install milligram
 <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Roboto:300,300italic,700,700italic">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.css">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/milligram/1.4.0/milligram.css">
 ```
-<br>
 
-`https://milligram.io/`
+[Milligram](https://milligram.io/)
+
+</details>
+<!--     ****************************DIVIDER****************************     -->
+<details><summary>React Bootstrap</summary>
+
+#### Install with npm:
+
+```npm install react-bootstrap bootstrap```
+
+[React Bootstrap](https://react-bootstrap.github.io/)
+
+</details>
+
+
+<details><summary>React Toolbox</summary>
+    
+#### Install with npm:
+
+```$ npm install --save react-toolbox```
+    
+[React Toolbox](http://www.react-toolbox.io/#/install)
+
+</details>
+
+<details><summary>Material UI</summary>
+    
+#### Install with npm:
+
+```$ npm install @material-ui/core```
+    
+[Material UI](https://material-ui.com/?ref=designrevision.com)
+
+</details>
+
+<details><summary>Galio</summary>
+    
+#### Install with npm:
+
+```npm install galio-framework```
+    
+[Galio](www.npm install galio-framework)
+
+</details>
+
+<details><summary>Galio</summary>
+    
+#### Install with npm:
+
+```npm install galio-framework```
+    
+[Galio](www.npm install galio-framework)
+
 </details>
 
