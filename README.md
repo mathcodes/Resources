@@ -1,6 +1,10 @@
 # Public Resource for links, syntax, frameworks and more!
 I have created this repo to store and access several links, images, and resources to make them available globally for use on non-commercial projects.
 
+## IMAGES
+[CLICK HERE](https://github.com/mathcodes/Resources/tree/master/img)
+
+
 ## SYNTAX
 
 <details><summary>html boilerplate</summary>
@@ -44,7 +48,7 @@ I have created this repo to store and access several links, images, and resource
     </summary>
 <br>
 
-`<link rel="icon" href="jcgr_06.ico" type="image">`
+`<link rel="shortcut icon" href="./images/portfolio/jCircleWhite.ico">`
 </details>
 
 ## Frameworks & Libraries
